@@ -9,7 +9,7 @@ public class ExemploPPT1Console {
 
     public static void main(String args[]) {
         Scanner s = new Scanner(System.in);
-        System.out.println("Digite um número: ");
+        System.out.println("Digite um número:");
 
         int result = s.nextInt();
 
